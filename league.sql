@@ -114,3 +114,5 @@ insert into player (playerName,mostPlayedChamp,champMostWins,timePlayed,numOfWin
             VALUES ("asotelo","Master Yi",229,160,245,165,59.76,"Master Yi","Vayne","Cho'Gath");
 insert into player (playerName,mostPlayedChamp,champMostWins,timePlayed,numOfWinsPlayer,numOfLossesPlayer,winLossRatioPlayer,topChamp1,topChamp2,topChamp3)
             VALUES ("fakest","Vayne",192,143,196,115,63.02,"Vayne","Ahri","Master Yi");
+
+
